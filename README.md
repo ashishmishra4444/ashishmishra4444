@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish-kumar-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-mishra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-kumar-mishra-6b136b275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-mishra" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashishkumishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashishkumishra" height="30" width="40" /></a>
 <a href="https://instagram.com/_ashish.mishra._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashish.mishra._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishanil334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishanil334" height="30" width="40" /></a>
