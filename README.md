@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWltOW9qOGZidW9uN3YzZmoxZ2tyb21wZHJnNDJkamg0cGVqN3A0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmishra4444&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmishra4444" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -18,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar-mishra-6b136b275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-kumar-mishra-6b136b275/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-kumar-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-mishra" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashishkumishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashishkumishra" height="30" width="40" /></a>
 <a href="https://instagram.com/_ashish.mishra._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashish.mishra._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishanil334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishanil334" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ashish_mishra_49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashish_mishra_49/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashish_mishra_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish_mishra_49" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ashishanil334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ashishanil334" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashishmishragpiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishmishragpiq" height="30" width="40" /></a>
 </p>
